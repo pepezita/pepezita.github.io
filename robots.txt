@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://pepezita.github.io/sitemap/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/pGO/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/EjW/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/elt/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/jcX/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/WxU/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/YTe/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/GDV/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/uZv/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/lfE/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/CUf/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/ARP/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/GTu/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/tko/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/wAG/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/bvS/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/VRA/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/eQc/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/mBR/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/Soh/sitemap_index.pepezita
+Sitemap: https://pepezita.github.io/fqY/sitemap_index.pepezita
